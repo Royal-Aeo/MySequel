@@ -1,0 +1,1 @@
+drop <DB name>;
